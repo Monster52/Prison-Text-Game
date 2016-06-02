@@ -1,0 +1,17 @@
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/monster/Games/Unity/PrisonText/obj/Debug/Assembly-CSharp.dll
+/Users/monster/Games/Unity/PrisonText/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/UnityEngine.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/UnityEditor.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Mono.Cecil.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Unity.DataContract.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/monster/Games/Unity/PrisonText/Temp/bin/Debug/Mono.Cecil.Mdb.dll
